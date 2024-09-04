@@ -1,0 +1,7 @@
+a=input("enter the element before swapping")
+b=input("enter the element before swapping")
+temp=a
+a=b
+b=temp
+print(f"element after swapping{a}")
+print(f"element after swapping {b}")
