@@ -1,0 +1,7 @@
+s=input("enter the element")
+revstr=(s[:])
+if revstr==s:
+    print("palindrome")
+else:
+    print("not a palindrome")
+
